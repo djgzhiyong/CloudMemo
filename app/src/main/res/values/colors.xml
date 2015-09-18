@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="color1">#EE7600</color>
+    <color name="color2">#C0FF31</color>
+    <color name="color3">#BBFFFF</color>
+    <color name="color4">#00EE00</color>
+    <color name="color5">#009ACD</color>
+    <color name="color6">#00CDCD</color>
+    <color name="color7">#9F79EE</color>
+    <color name="color8">#FFFAFA</color>
+    <color name="bgColor">#DBDBDB</color>
+    <color name="green">#00EE76</color>
+    <color name="green_press">#B0E0E6</color>
+    <color name="link_color">#0000ff</color>
+    <color name="black_color">#000000</color>
+    <color name="red_color">#ff0000</color>
+
+    <color name="appColor">#FF5722</color>
+    <color name="appColorSecond">#E64A19</color>
+
+</resources>

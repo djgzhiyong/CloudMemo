@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/content_txtHint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/contentNullHint"
+        android:textSize="@dimen/baseSize"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/content_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/content_btnCancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/content_btnDel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/del" />
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/content_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/content_bottom"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"
+        android:cacheColorHint="@color/transparent"
+        android:horizontalSpacing="10dp"
+        android:layoutAnimation="@anim/gridview_anim"
+        android:listSelector="@color/transparent"
+        android:numColumns="2"
+        android:padding="4dp"
+        android:scrollbars="none"
+        android:verticalSpacing="10dp" />
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/content_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:clickable="true"
+        app:cardBackgroundColor="@color/appColor"
+        app:cardCornerRadius="31dp"
+        app:cardElevation="6dp">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/ic_plus" />
+
+    </android.support.v7.widget.CardView>
+</RelativeLayout><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/layout/fragment_content.xml -->

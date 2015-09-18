@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@anim/grid_anim"
+    android:animationOrder="normal"
+    android:delay="0.5" />
+<!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/anim/gridview_anim.xml -->

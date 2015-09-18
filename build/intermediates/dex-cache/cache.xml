@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\classes-72aaf59d58cbbeeaebaacabfc9689e8a68a67d1a.jar" />
+    </item>
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\classes-31f18492bb5e935e91bcac1dc5f5e52a27b15837.jar" />
+    </item>
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-02cb6d079fad464133c0c89e2ff1c2c1fa18d2f8.jar" />
+    </item>
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-88f7b5e73d68e95594054c51b4fdb034a2846217.jar" />
+    </item>
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\classes-df5dc5f9c82ed1f5fc0c05cde0e1739d718f6ac8.jar" />
+    </item>
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\libs\bmob_v3.1.5beta.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fa73d6113fd3663bd0db46954764a202ccfb8c37">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\bmob_v3.1.5beta-a914dd1ce03fa4ef6556e321a7a5b760041f36b4.jar" />
+    </item>
+    <item
+        jar="C:\develop\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-1417542190b7ee6fe7f3e7880740b21376210c4b.jar" />
+    </item>
+    <item
+        jar="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\githubCode\CloudMemo\CloudMemoAS\app\build\intermediates\pre-dexed\debug\classes-f17e6a1d9cdc0c7d4ef517140db587c27ef35af6.jar" />
+    </item>
+
+</items>

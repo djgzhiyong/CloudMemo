@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="#B0E0E6" />
+
+</shape><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/drawable/press.xml -->

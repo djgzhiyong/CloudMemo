@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="itemTitleSize">18sp</dimen>
+    <dimen name="baseSize">16sp</dimen>
+    <dimen name="big_size">20sp</dimen>
+    <dimen name="navigation_drawer_width">295dp</dimen>
+
+</resources>
