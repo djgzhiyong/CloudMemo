@@ -24,4 +24,4 @@
         android:layout_height="match_parent"
         android:layout_gravity="start" />
 
-</android.support.v4.widget.DrawerLayout><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/layout/activity_main.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/layout/activity_main.xml -->

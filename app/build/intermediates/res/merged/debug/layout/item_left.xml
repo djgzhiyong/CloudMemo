@@ -22,4 +22,4 @@
         android:paddingTop="10dp"
         android:textSize="@dimen/big_size" />
 
-</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/layout/item_left.xml -->
+</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/layout/item_left.xml -->

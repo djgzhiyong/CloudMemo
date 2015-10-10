@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -54,13 +55,13 @@
         android:verticalSpacing="10dp" />
 
     <android.support.v7.widget.CardView
-        android:id="@+id/content_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_margin="20dp"
         android:clickable="true"
+        android:visibility="gone"
         app:cardBackgroundColor="@color/appColor"
         app:cardCornerRadius="31dp"
         app:cardElevation="6dp">
@@ -73,4 +74,18 @@
             android:src="@drawable/ic_plus" />
 
     </android.support.v7.widget.CardView>
+
+    <com.melnykov.fab.FloatingActionButton
+        android:id="@+id/content_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_plus"
+        fab:fab_colorNormal="@color/appColor"
+        fab:fab_colorPressed="@color/appColor"
+        fab:fab_colorRipple="@color/appColor" />
+
+
 </RelativeLayout>

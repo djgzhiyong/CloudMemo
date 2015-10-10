@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/add_menu_save"
         android:icon="@android:drawable/ic_menu_save"
-        android:showAsAction="always"
+        app:showAsAction="always"
         android:title="@string/save"/>
     <item
         android:id="@+id/add_menu_share"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="ifRoom"
         android:title="@string/share"/>
     <item
         android:id="@+id/add_menu_color"
+        android:icon="@android:drawable/ic_menu_gallery"
+        app:showAsAction="ifRoom"
         android:title="@string/color"/>
 
-</menu><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/menu/add_menu.xml -->
+</menu><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/menu/add_menu.xml -->

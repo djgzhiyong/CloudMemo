@@ -32,4 +32,4 @@
             app:cardCornerRadius="15dp"
             app:cardElevation="4dp" />
     </RelativeLayout>
-</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/layout/activity_add.xml -->
+</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/layout/activity_add.xml -->

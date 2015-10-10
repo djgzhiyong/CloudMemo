@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/content_menu_delete"
         android:icon="@android:drawable/ic_menu_delete"
-        android:showAsAction="always"
+        app:showAsAction="always"
         android:title="@string/del" />
-</menu><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/menu/action_content.xml -->
+</menu><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/menu/action_content.xml -->

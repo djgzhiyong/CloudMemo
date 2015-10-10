@@ -64,4 +64,4 @@
         android:layout_gravity="center_horizontal"
         android:src="@drawable/ic_bmob" />
 
-</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/layout/fragment_about.xml -->
+</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/layout/fragment_about.xml -->

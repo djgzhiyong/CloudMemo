@@ -20,4 +20,4 @@
         android:text="yonth 云备忘录"
         android:textSize="@dimen/itemTitleSize" />
 
-</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/layout/item_about.xml -->
+</LinearLayout><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/layout/item_about.xml -->

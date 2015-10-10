@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -18,22 +18,22 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="appColor">#FF5722</color>
     <color name="appColorSecond">#E64A19</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">#ff424242</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="bgColor">#DBDBDB</color>
     <color name="black_color">#000000</color>
     <color name="blue">#0000FF</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -43,13 +43,13 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="cardview_dark_background">#FF202020</color>
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="color1">#EE7600</color>
     <color name="color2">#C0FF31</color>
@@ -59,29 +59,34 @@
     <color name="color6">#00CDCD</color>
     <color name="color7">#9F79EE</color>
     <color name="color8">#FFFAFA</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="green">#00EE76</color>
     <color name="green_press">#B0E0E6</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="link_color">#0000ff</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="material_blue_500">#5677fc</color>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -95,10 +100,10 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="red_color">#ff0000</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#40ffffff</color>
     <color name="ripple_material_light">#40000000</color>
@@ -108,7 +113,7 @@
     <color name="secondary_text_disabled_material_light">#24000000</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="transparent">#00000000</color>
     <color name="white">#FFFFFF</color>
@@ -121,6 +126,7 @@
     <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/></declare-styleable>
     <declare-styleable name="CompatTextView"><attr format="reference|boolean" name="textAllCaps"/></declare-styleable>
     <declare-styleable name="DrawerArrowToggle"><attr format="color" name="color"/><attr format="boolean" name="spinBars"/><attr format="dimension" name="drawableSize"/><attr format="dimension" name="gapBetweenBars"/><attr format="dimension" name="topBottomBarArrowSize"/><attr format="dimension" name="middleBarArrowSize"/><attr format="dimension" name="barSize"/><attr format="dimension" name="thickness"/></declare-styleable>
+    <declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorNormal"/><attr format="color" name="fab_colorRipple"/><attr format="color" name="fab_colorDisabled"/><attr format="boolean" name="fab_shadow"/><attr format="enum" name="fab_type"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr></declare-styleable>
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
@@ -137,7 +143,7 @@
     <declare-styleable name="Toolbar"><attr format="reference" name="titleTextAppearance"/><attr format="reference" name="subtitleTextAppearance"/><attr name="title"/><attr name="subtitle"/><attr name="android:gravity"/><attr format="dimension" name="titleMargins"/><attr format="dimension" name="titleMarginStart"/><attr format="dimension" name="titleMarginEnd"/><attr format="dimension" name="titleMarginTop"/><attr format="dimension" name="titleMarginBottom"/><attr name="contentInsetStart"/><attr name="contentInsetEnd"/><attr name="contentInsetLeft"/><attr name="contentInsetRight"/><attr format="dimension" name="maxButtonHeight"/><attr format="reference" name="theme"/><attr format="reference" name="collapseIcon"/><attr format="string" name="collapseContentDescription"/><attr name="popupTheme"/><attr format="reference" name="navigationIcon"/><attr format="string" name="navigationContentDescription"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
@@ -181,16 +187,16 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="baseSize">16sp</dimen>
     <dimen name="big_size">20sp</dimen>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -198,11 +204,18 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="fab_elevation_lollipop">8dp</dimen>
+    <dimen name="fab_scroll_threshold">4dp</dimen>
+    <dimen name="fab_shadow_size">12dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="itemTitleSize">18sp</dimen>
     <dimen name="navigation_drawer_width">295dp</dimen>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -232,7 +245,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="add">添加</string>
     <string name="addHint">触摸开始记录</string>
@@ -241,8 +254,26 @@
     <string name="close">关</string>
     <string name="color">颜色</string>
     <string name="contentNullHint">点击添加开始记录</string>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="define_FloatingActionButton"/>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="del">删除</string>
     <string name="email">邮箱</string>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/res/values/values.xml -->
+    <eat-comment/>
+    <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>
+    <string name="library_FloatingActionButton_authorWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_isOpenSource">true</string>
+    <string name="library_FloatingActionButton_libraryDescription">Android Google+ like floating action button which reacts on the list view scrolling events. Becomes visible when the list view is scrolled up and invisible when scrolled down.</string>
+    <string name="library_FloatingActionButton_libraryName">FloatingActionButton</string>
+    <string name="library_FloatingActionButton_libraryVersion">1.0.0</string>
+    <string name="library_FloatingActionButton_libraryWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_licenseId">mit</string>
+    <string name="library_FloatingActionButton_repositoryLink">https://github.com/makovkastar/FloatingActionButton</string>
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="login">登入</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -253,17 +284,17 @@
     <string name="register">注册</string>
     <string name="save">保存</string>
     <string name="share">分享</string>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@color/background_material_light</item>
         <item name="android:textColor">@color/black_color</item>
         <item name="android:actionMenuTextColor">@color/white</item>
     </style>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
@@ -1118,7 +1149,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="CardView">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
@@ -1134,7 +1165,7 @@
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
-    <!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/E:/githubCode/CloudMemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>

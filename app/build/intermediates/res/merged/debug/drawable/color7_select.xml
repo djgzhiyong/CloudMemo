@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/color7_down" android:state_checked="true"></item>
     <item android:drawable="@drawable/color7_normal"></item>
 
-</selector><!-- From: file:/E:/githubCode/CloudMemo/CloudMemoAS/app/src/main/res/drawable/color7_select.xml -->
+</selector><!-- From: file:/E:/githubCode/CloudMemo/app/src/main/res/drawable/color7_select.xml -->

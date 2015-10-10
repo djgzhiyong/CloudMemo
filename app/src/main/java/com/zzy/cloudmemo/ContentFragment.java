@@ -5,7 +5,6 @@ import android.app.Fragment;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.widget.CardView;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -27,6 +26,7 @@ import android.widget.TextView;
 import com.lidroid.xutils.ViewUtils;
 import com.lidroid.xutils.view.annotation.ViewInject;
 import com.lidroid.xutils.view.annotation.event.OnClick;
+import com.melnykov.fab.FloatingActionButton;
 import com.youth.zzy.cloudmemo.R;
 import com.zzy.adapter.ContentGridAdapter;
 import com.zzy.dao.MemoDaoHelper;
@@ -38,7 +38,9 @@ import java.util.List;
 
 public class ContentFragment extends Fragment {
     @ViewInject(R.id.content_add)
-    private CardView cardViewAdd;
+    private FloatingActionButton floatButtonAdd;
+
+
 
     private MyToast mToast;
     private GridView gridView;
@@ -100,6 +102,7 @@ public class ContentFragment extends Fragment {
     private void showGridStyle() {
         gridAdapter = new ContentGridAdapter(getActivity(), memoList);
         gridView.setAdapter(gridAdapter);
+        floatButtonAdd.attachToListView(gridView);
     }
 
     @Override
@@ -326,11 +329,11 @@ public class ContentFragment extends Fragment {
             }
             if (scrollState == SCROLL_STATE_IDLE && !gridAdapter.getIsDeleteShow()) {
                 if (firstVisibleItem + visibleItemCount == totalItemCount) {
-                    if (cardViewAdd.getVisibility() == View.VISIBLE) {
+                    if (floatButtonAdd.getVisibility() == View.VISIBLE) {
                         hideAddLayout();
                     }
                 } else {
-                    if (cardViewAdd.getVisibility() == View.GONE) {
+                    if (floatButtonAdd.getVisibility() == View.GONE) {
                         showAddLayout();
                     }
                 }
@@ -350,16 +353,16 @@ public class ContentFragment extends Fragment {
      * 隐藏添加按钮
      */
     private void hideAddLayout() {
-        cardViewAdd.startAnimation(downAnim);
-        downAnim.setAnimationListener(new AnimListenr(cardViewAdd));
+        floatButtonAdd.startAnimation(downAnim);
+        downAnim.setAnimationListener(new AnimListenr(floatButtonAdd));
     }
 
     /**
      * 显示添加按钮
      */
     private void showAddLayout() {
-        cardViewAdd.startAnimation(upAnim);
-        upAnim.setAnimationListener(new AnimListenr(cardViewAdd));
+        floatButtonAdd.startAnimation(upAnim);
+        upAnim.setAnimationListener(new AnimListenr(floatButtonAdd));
     }
 
 
